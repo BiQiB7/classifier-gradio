@@ -18,3 +18,4 @@ demo = gr.Interface(
     inputs=gr.Image(shape=(224, 224)),
     outputs="text")
 demo.launch()
+# 
